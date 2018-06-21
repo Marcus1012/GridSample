@@ -1,1 +1,1 @@
-# GridSample
+# react-grid-sample
